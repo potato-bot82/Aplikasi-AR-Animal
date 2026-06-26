@@ -13,3 +13,6 @@ Anda dapat mengunduh dan menginstal aplikasi **Augmented Reality Pengenalan Hewa
 
 * **Unity 3D** sebagai game engine.
 * **Vuforia Engine** untuk implementasi teknologi Augmented Reality (AR).
+
+### Link download
+https://apkpure.com/ar-animal-learn/com.Wahyu.ARAnimalLearn
